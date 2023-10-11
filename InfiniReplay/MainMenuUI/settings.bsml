@@ -1,0 +1,8 @@
+<bg id='root' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://raw.githubusercontent.com/RedBrumbler/Quest-BSML-Docs/gh-pages/schema.xsd'>
+    <horizontal preferred-width="45" preferred-height="45" pad="4">
+		<vertical>
+			<text text="InfiniReplay" font-size="6"/>
+			<button text="Start" on-click="startReplayWatching"/>
+		</vertical>
+    </horizontal>
+</bg>
